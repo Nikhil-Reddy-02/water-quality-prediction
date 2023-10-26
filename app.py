@@ -6,7 +6,7 @@ import _pickle as cPickle
 
 st.header("Water Potability Prediction App")
 st.write("This app predicts whether the water sample is potable or not!")
-st.write("Data was provided [by Aditya Kadiwal on Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability).",unsafe_allow_html=True)
+
 
 st.image("https://images.pexels.com/photos/372882/pexels-photo-372882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
 
